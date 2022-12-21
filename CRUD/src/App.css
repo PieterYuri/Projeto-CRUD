@@ -1,0 +1,37 @@
+body {
+  font-family: 'Oxygen', sans-serif;
+}
+.label1{
+  justify-content: baseline;
+  margin: 15px;
+  margin-left: 6px;
+}
+.label2{
+  justify-content: baseline;
+  margin: 15px;
+  margin-left: 6px;
+}
+button{
+  border-radius: 20px;
+  box-shadow: 2px 2px 1px rgb(107, 107, 107);
+  color: antiquewhite;
+  background-color: green;
+  margin: 5px;
+  margin-left: 8em;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: 0.3s;
+  display: inline-block;
+}
+.button:hover {opacity: 1}
+li {
+  list-style-type: none;
+}
+.sbox {
+  margin-top: 70px;
+}
+.ButtonNC{
+  font-style: italic;
+}
